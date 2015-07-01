@@ -1,1 +1,5 @@
-Lista de compras
+Lista de compras git
+
+Cerveja
+Carne
+Carvão 
